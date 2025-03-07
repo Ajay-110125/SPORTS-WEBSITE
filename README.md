@@ -1,6 +1,11 @@
 # SPORTS-WEBSITE
 Sports Website
 
+In this sports website we can use html:5 , css , javascript.
+html:5 are used for creating the basic structure of the webpages.
+css are used for styling the webpages.
+javascript are used for creating the dynamic webpages event handlers, and navigating the webpages.
+
 Purpose: 
 Provides latest sports news, match updates, player statistics, and event schedules.
 
